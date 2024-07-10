@@ -30,10 +30,10 @@ Olá! Nesse desafio, busquei implementar o conhecimento aprendido com o curso de
 3. Execute o programa:
    python gen_image.py
 
-Exemplo de uso
-A imagem tem personagem? (sim/não): sim
-Descreva o personagem: um Smurf rosa
-A imagem tem cenário? (sim/não): sim
-Descreva o cenário: em uma floresta
+## Exemplo de uso:
+- A imagem tem personagem? (sim/não): sim
+- Descreva o personagem: um Smurf rosa
+- A imagem tem cenário? (sim/não): sim
+- Descreva o cenário: em uma floresta
 
 https://image.pollinations.ai/prompt/A%20photo%20of%20a%20pink%20Smurf%20in%20a%20forest?width=800&height=600&seed=793
