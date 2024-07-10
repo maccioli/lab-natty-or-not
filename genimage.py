@@ -13,3 +13,13 @@ def pegar_parameteros():
 
     return personagem_descricao, cenario_descricao
 
+def criar_prompt(personagem, cenario):
+    prompt = "A photo of"
+    
+    if personagem:
+        prompt += f" a {personagem}"
+    
+    if cenario:
+        prompt += f" in {cenario}"
+    
+    return prompt
